@@ -1,0 +1,35 @@
+// Font
+$font-family-base: ' Ubuntu', Arial, Helvetica, sans-serif;
+$font-family-head: 'Marmelad', Arial, Helvetica, sans-serif;
+
+/**
+ * Grid system
+ * -----------------------------------------
+ */
+
+//Breakpoints
+$grid-breakpoints: (
+	xs: 0,
+	xsm: 375px,
+	sm: 576px,
+	md: 768px,
+	lg: 992px,
+	xl: 1200px,
+	xxl: 1400px,
+	xxxl:  1872px
+);
+$device-breakpoints: (
+	phone: xs,
+	tablet: md,
+	desktop: lg
+);
+// Colors
+
+
+$font-base-color: #97002D;
+$font-link-color: #97002D;
+
+// time
+$animation-base-time: 0.3s;
+
+

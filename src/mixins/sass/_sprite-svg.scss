@@ -1,0 +1,111 @@
+@use "sass:math";
+
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+}
+
+.icon-arrow {
+    width: (24 / 24) * 1em;
+}
+.icon-arrow-circle-left {
+    width: (48 / 48) * 1em;
+}
+.icon-arrow-circle-right {
+    width: (48 / 48) * 1em;
+}
+.icon-arrow-left {
+    width: (44 / 44) * 1em;
+}
+.icon-arrow-up {
+    width: (32 / 32) * 1em;
+}
+.icon-bag {
+    width: (45 / 44) * 1em;
+}
+.icon-burger {
+    width: (44 / 44) * 1em;
+}
+.icon-catalog {
+    width: (45 / 44) * 1em;
+}
+.icon-checkbox {
+    width: (56 / 56) * 1em;
+}
+.icon-checked {
+    width: (14 / 9) * 1em;
+}
+.icon-chek {
+    width: (20 / 20) * 1em;
+}
+.icon-chevron-down {
+    width: (16 / 16) * 1em;
+}
+.icon-chevron-right {
+    width: (24 / 24) * 1em;
+}
+.icon-close {
+    width: (16 / 16) * 1em;
+}
+.icon-delete {
+    width: (24 / 24) * 1em;
+}
+.icon-delivery {
+    width: (20 / 20) * 1em;
+}
+.icon-dislike {
+    width: (24 / 24) * 1em;
+}
+.icon-fav {
+    width: (24 / 24) * 1em;
+}
+.icon-filter {
+    width: (44 / 44) * 1em;
+}
+.icon-filter-rev {
+    width: (24 / 24) * 1em;
+}
+.icon-heart {
+    width: (45 / 44) * 1em;
+}
+.icon-home {
+    width: (45 / 44) * 1em;
+}
+.icon-home2 {
+    width: (24 / 24) * 1em;
+}
+.icon-instagram {
+    width: (24 / 24) * 1em;
+}
+.icon-like {
+    width: (24 / 24) * 1em;
+}
+.icon-mail {
+    width: (24 / 24) * 1em;
+}
+.icon-message {
+    width: (16 / 17) * 1em;
+}
+.icon-minus {
+    width: (24 / 24) * 1em;
+}
+.icon-phone {
+    width: (24 / 24) * 1em;
+}
+.icon-plus {
+    width: (24 / 24) * 1em;
+}
+.icon-search {
+    width: (24 / 24) * 1em;
+}
+.icon-star {
+    width: (16 / 16) * 1em;
+}
+.icon-star-border {
+    width: (16 / 16) * 1em;
+}
+.icon-user-circle {
+    width: (45 / 44) * 1em;
+}

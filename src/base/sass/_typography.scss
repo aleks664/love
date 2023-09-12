@@ -1,0 +1,7 @@
+@mixin base-text-style () {
+	font-size: 16px;
+	line-height: 1.45;
+	font-weight: 300;
+	font-style: normal;
+	font-family: $font-family-base;
+}
